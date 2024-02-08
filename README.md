@@ -1,5 +1,5 @@
 This website was created with reference to '1冊ですべて身につくHTML & CSSとWebデザイン入門講座'.</br>
-（このサイトは「1冊ですべて身につくHTML & CSSとWebデザイン入門講座」を参考に作らせて頂きました）</br>
+このサイトは「1冊ですべて身につくHTML & CSSとWebデザイン入門講座」を参考に作らせて頂きました</br>
 
 *link to the reference book（参考書へのリンク）</br> 
 1冊ですべて身につくHTML & CSSとWebデザイン入門講座　→https://www.sbcr.jp/product/4797398892/  
